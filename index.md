@@ -1,9 +1,0 @@
-<html>
-<body>
-
-<h1>Hello!</h1>
-
-<p>This is my first website. And a Test</p>
-
-</body>
-</html>
